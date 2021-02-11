@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "..\\JavaScript"
+		},
+		{
+			"path": "..\\OOP"
+		},
+		{
+			"path": "..\\SOFTWARE ENGINEER"
+		},
+		{
+			"path": "..\\WEB PRO"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "JavaScript"
+	}
+}
